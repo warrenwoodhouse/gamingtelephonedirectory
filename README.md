@@ -1,122 +1,126 @@
 # gamingtelephonedirectory
-Custom spreadsheet html site with tons of information about telephone numbers, characters and locations for loads of various video games. More cool stuff on my gaming blog at https://warrenwoodhouse.blogspot.com/gaming
+Custom spreadsheet html site with tons of information about telephone numbers, characters and locations for loads of various video games. More cool stuff on my gaming blog which can be found by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/gaming)
 
-# Alan Wake
+# latest
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/search/label/game%20telephone%20directories) to see the latest telephone directories.
+
+# archives
+## Alan Wake
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/2025/12/guides-alanwake-telephonedirectory.html)
 
-# BEYOND: Two Souls
+## BEYOND: Two Souls
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/2022/05/guides-beyondtwosouls-telephonedirectory.html)
 
-# Control
-## Control I
+## Control
+### Control I
 [CLICK HERE](control)
 
-# GTA
-## GTA I
+## GTA
+### GTA I
 [CLICK HERE](gta)
 
-## GTA: London 1969
+### GTA: London 1969
 [CLICK HERE](gta/london1969)
 
-## GTA: London 1961
+### GTA: London 1961
 [CLICK HERE](gta/london1961)
 
-## GTA 2
+### GTA 2
 [CLICK HERE](gta/2)
 
-## GTA III
+### GTA III
 [CLICK HERE](gta/iii)
 
-## GTA: Vice City
+### GTA: Vice City
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/2022/07/guides-gtavicecity-telephonedirectory.html) ([archive](gta/vc))
 
-## GTA: San Andreas
+### GTA: San Andreas
 [CLICK HERE](gta/sa)
 
-## GTA: Liberty City Stories
+### GTA: Liberty City Stories
 [CLICK HERE](gta/lcs)
 
-## GTA: Vice City Stories
+### GTA: Vice City Stories
 [CLICK HERE](gta/vcs)
 
-## GTA IV
+### GTA IV
 [CLICK HERE](gta/iv)
 
-## GTA IV: The Lost and Damned DLC
+#### GTA IV: The Lost and Damned DLC
 [CLICK HERE](gta/iv/tlad)
 
-## GTA IV: The Ballad of Gay Tony DLC
+#### GTA IV: The Ballad of Gay Tony DLC
 [CLICK HERE](gta/iv/tbogt)
 
-## GTA: Chinatown Wars
+### GTA: Chinatown Wars
 [CLICK HERE](gta/cw)
 
-## GTA V
+### GTA V
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/2026/01/guides-gtav-telephonedirectory.html) ([archive](gta/v))
 
-### GTA V: GTA Online
+#### GTA V: GTA Online
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/2026/01/guides-gtav-telephonedirectory.html#:~:text=GTA%20Online) ([archive](gta/v/online))
 
-## GTA VI
+### GTA VI
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/2025/05/guides-gtavi-telephonedirectory.html)
 
-# Heavy Rain
+## Heavy Rain
 [CLICK HERE](heavyrain)
 
-# Life is Strange
-## Life is Strange 1
-add numbers here
+## Life is Strange
+### Life is Strange 1
+[CLICK HERE](lifeisstrange)
 
-## Life is Strange: Before the Storm
-add numbers here
+### Life is Strange: Before the Storm
+[CLICK HERE](lifeisstrange/beforethestorm)
 
-## Life is Strange 2
+### Life is Strange 2
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/2025/11/guides-lifeisstrange2-telephonedirectory.html)
 
-## The Awesome Adventures of Captain Spirit
-add numbers here
+#### The Awesome Adventures of Captain Spirit
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/2025/11/guides-theawesomeadventuresofcaptainspirit-telephonedirectory.html)
 
-## Life is Strange: True Colors
+### Life is Strange: True Colors
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/2026/01/guides-lifeisstrangetruecolors-telephonedirectory.html)
 
-## Life is Strange: Double Exposure
+### Life is Strange: Double Exposure
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/2026/01/guides-lifeisstrangedoubleexposure-telephonedirectory.html)
 
-## Life is Strange: Reunion
+### Life is Strange: Reunion
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/2026/04/guides-lifeisstrangereunion-telephonedirectory.html)
 
-# Mafia
-## Mafia I
+## Mafia
+### Mafia I
 [CLICK HERE](mafia)
 
-## Mafia II
+### Mafia II
 [CLICK HERE](mafia/ii)
 
-## Mafia III
+### Mafia III
 [CLICK HERE](mafia/iii)
 
-# Noire
-## L.A. Noire
+## Noire
+### L.A. Noire
 [CLICK HERE](noire/la)
 
-# Saints Row
-## Saints Row 1
+## Saints Row
+### Saints Row 1
 [CLICK HERE](saintsrow)
 
-## Saints Row 2
-[CLICK HERE](saintsrow2)
+### Saints Row 2
+[CLICK HERE](saintsrow/2)
 
-## Saints Row: The Third
+### Saints Row: The Third
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/2026/03/guides-saintsrowthethird-telephonedirectory.html)
 
-## Saints Row IV
+### Saints Row IV
 [CLICK HERE](saintsrow/iv)
 
-## Saints Row: Gat out of Hell
+### Saints Row: Gat out of Hell
 [CLICK HERE](saintsrow/gatoutofhell)
 
-## Agents of Mayhem
+### Agents of Mayhem
 add numbers here
 
-## Saints Row Reboot
+### Saints Row Reboot
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/2026/05/guides-saintsrowreboot-telephonedirectory.html)
