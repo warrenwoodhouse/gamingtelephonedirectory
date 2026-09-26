@@ -41,17 +41,17 @@ Custom spreadsheet html site with tons of information about telephone numbers, c
 ## GTA IV: The Ballad of Gay Tony DLC
 [CLICK HERE](gta/iv/tbogt)
 
+## GTA: Chinatown Wars
+[CLICK HERE](gta/cw)
+
 ## GTA V
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/2026/01/guides-gtav-telephonedirectory.html) ([archive](gta/v))
 
-## GTA Online
-[CLICK HERE](https://warrenwoodhouse.blogspot.com/2026/01/guides-gtav-telephonedirectory.html#:~:text=GTA Online) ([archive](gta/online))
+### GTA V: GTA Online
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/2026/01/guides-gtav-telephonedirectory.html#:~:text=GTA%20Online) ([archive](gta/v/online))
 
 ## GTA VI
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/2025/05/guides-gtavi-telephonedirectory.html)
-
-# L.A. Noire
-[CLICK HERE](lanoire)
 
 # Life is Strange
 ## Life is Strange 1
@@ -84,6 +84,10 @@ add numbers here
 
 ## Mafia III
 [CLICK HERE](mafia/iii)
+
+# Noire
+## L.A. Noire
+[CLICK HERE](noire/la)
 
 # Saints Row
 ## Saints Row 1
