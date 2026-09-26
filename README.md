@@ -7,12 +7,19 @@ Custom spreadsheet html site with tons of information about telephone numbers, c
 # BEYOND: Two Souls
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/2022/05/guides-beyondtwosouls-telephonedirectory.html)
 
+# Control
+## Control I
+[CLICK HERE](control)
+
 # GTA
 ## GTA I
 [CLICK HERE](gta)
 
-## GTA: London
-[CLICK HERE](gta/london)
+## GTA: London 1969
+[CLICK HERE](gta/london1969)
+
+## GTA: London 1961
+[CLICK HERE](gta/london1961)
 
 ## GTA 2
 [CLICK HERE](gta/2)
@@ -52,6 +59,9 @@ Custom spreadsheet html site with tons of information about telephone numbers, c
 
 ## GTA VI
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/2025/05/guides-gtavi-telephonedirectory.html)
+
+# Heavy Rain
+[CLICK HERE](heavyrain)
 
 # Life is Strange
 ## Life is Strange 1
