@@ -1,8 +1,8 @@
 # gamingtelephonedirectory
-Custom spreadsheet html site with tons of information about telephone numbers, characters and locations for loads of various video games. More cool stuff on my gaming blog which can be found by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/gaming)
+Welcome to the archive of my custom spreadsheets as html sites that have tons of information about telephone numbers, characters and locations for loads of various video games. All of these spreadsheets were originally created using Google Sheets. More cool stuff on my gaming blog which can be found by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/gaming). All of the newest and latest telephone directories are now available on my personal blog instead.
 
 # latest
-[CLICK HERE](https://warrenwoodhouse.blogspot.com/search/label/game%20telephone%20directories) to see the latest telephone directories.
+All of the latest telephone directories are available on my blog as blog posts instead of being here. [CLICK HERE](https://warrenwoodhouse.blogspot.com/search/label/game%20telephone%20directories) to see the latest telephone directories on my blog.
 
 # archives
 ## Alan Wake
