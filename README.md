@@ -28,6 +28,19 @@ All of the latest telephone directories are available on my blog as blog posts i
 ### Control I
 [CLICK HERE](control)
 
+## Detroit: Become Human
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/2019/01/guides-detroitbecomehuman-telephonedirectory.html)
+
+## Dishonored
+### Dishonored I
+[CLICK HERE](dishonored)
+
+### Dishonored 2
+[CLICK HERE](dishonored/2)
+
+### Dishonored: Death of the Outsider
+[CLICK HERE](dishonored/deathoftheoutsider)
+
 ## GTA
 ### GTA I
 [CLICK HERE](gta)
@@ -78,14 +91,14 @@ All of the latest telephone directories are available on my blog as blog posts i
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/2025/05/guides-gtavi-telephonedirectory.html)
 
 ## Heavy Rain
-[CLICK HERE](heavyrain)
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/2016/09/guides-heavyrain-telephonedirectory.html) ([archive](heavyrain))
 
 ## Life is Strange
 ### Life is Strange 1
-[CLICK HERE](lifeisstrange)
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/2017/09/guides-lifeisstrange-telephonedirectory.html)
 
 ### Life is Strange: Before the Storm
-[CLICK HERE](lifeisstrange/beforethestorm)
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/2019/08/guides-lifeisstrangebeforethestorm-telephonedirectory.html)
 
 ### Life is Strange 2
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/2025/11/guides-lifeisstrange2-telephonedirectory.html)
@@ -104,13 +117,13 @@ All of the latest telephone directories are available on my blog as blog posts i
 
 ## Mafia
 ### Mafia I
-[CLICK HERE](mafia)
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/2022/09/guides-mafia-telephonedirectory.html) ([archive](mafia))
 
 ### Mafia II
-[CLICK HERE](mafia/ii)
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/2025/08/guides-mafiaii-telephonedirectory.html) ([archive](mafia/ii))
 
 ### Mafia III
-[CLICK HERE](mafia/iii)
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/2017/11/guides-mafiaiii-telephonedirectory.html) ([archive](mafia/iii))
 
 ## Noire
 ### L.A. Noire
@@ -140,10 +153,10 @@ add numbers here
 
 ## WATCHDOGS
 ### WATCHDOGS I
-[CLICK HERE](https://warrenwoodhouse.blogspot.com/2026/09/guides-watchdogs-telephonedirectory.html) ([archive](watchdogs))
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/2016/01/guides-watchdogs-telephonedirectory.html)
 
 ### WATCHDOGS 2
-[CLICK HERE](https://warrenwoodhouse.blogspot.com/2026/09/guides-watchdogs2-telephonedirectory.html) ([archive](watchdogs/2))
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/2016/12/guides-watchdogs2-telephonedirectory.html)
 
 ### WATCHDOGS: Legion
-[CLICK HERE](https://warrenwoodhouse.blogspot.com/2026/09/guides-watchdogslegion-telephonedirectory.html) ([archive](watchdogs/legion))
+add numbers here
