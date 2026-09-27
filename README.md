@@ -11,6 +11,19 @@ All of the latest telephone directories are available on my blog as blog posts i
 ## BEYOND: Two Souls
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/2022/05/guides-beyondtwosouls-telephonedirectory.html)
 
+## Borderlands
+### Borderlands I
+[CLICK HERE](borderlands)
+
+### Borderlands 2
+[CLICK HERE](borderlands/2)
+
+### Borderlands: The Handsome Collection
+[CLICK HERE](borderlands/thehandsomecollection)
+
+### Borderlands 3
+[CLICK HERE](borderlands/3)
+
 ## Control
 ### Control I
 [CLICK HERE](control)
@@ -124,3 +137,13 @@ add numbers here
 
 ### Saints Row Reboot
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/2026/05/guides-saintsrowreboot-telephonedirectory.html)
+
+## WATCHDOGS
+### WATCHDOGS I
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/2026/09/guides-watchdogs-telephonedirectory.html) ([archive](watchdogs))
+
+### WATCHDOGS 2
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/2026/09/guides-watchdogs2-telephonedirectory.html) ([archive](watchdogs/2))
+
+### WATCHDOGS: Legion
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/2026/09/guides-watchdogslegion-telephonedirectory.html) ([archive](watchdogs/legion))
