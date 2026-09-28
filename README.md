@@ -21,6 +21,9 @@ All of the latest telephone directories are available on my blog as blog posts i
 ### Borderlands: The Handsome Collection
 [CLICK HERE](borderlands/thehandsomecollection)
 
+### Tales from the Borderlands: A Telltale Game
+[CLICK HERE](borderlands/talesfromtheborderlandsatelltalegame)
+
 ### Borderlands 3
 [CLICK HERE](borderlands/3)
 
